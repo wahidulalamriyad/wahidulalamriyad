@@ -10,5 +10,5 @@
 
 ✔ Published a Q3 tier Scopus index-journal by the Journal of Advanced Research in Dynamical and Control Systems. Presented research works at 3rd Global Conference of Computing and Media Technology, Kuala Lumpur, Malaysia.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wahidulalamriyad&show_icons=true&include_all_commits=true&hide_border=true" alt="Wahid's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidulalamriyad&layout=compact&hide=jupyter%20notebook&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wahidulalamriyad&show_icons=true&include_all_commits=true&hide_border=true" alt="Wahid's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidulalamriyad&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
