@@ -1,7 +1,5 @@
 ### Hi there, I'm Wahid 👋🏻
 
-Machine Learning Engineer with 2+ years of experience completing colossal research and projects regarding artificial intelligence, machine learning, deep learning, computer vision and data science. Core attributes include a curious mind, dedicated and strategic execution, creative problem-solving, and inspiring leadership. Believe that consistent hard work will always lead to success.
-
 ∞ Key Achievements:
 
 ✔ Accomplished 19 professional certifications, equivalent to 28 certified courses from the University of Oxford, IBM, Microsoft, DataCamp, and ZeroToMastery, with a 100% score.
