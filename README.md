@@ -1,4 +1,4 @@
-# 🏆About me
+# 🏆Bio
 Machine Learning Engineer with 2+ years of experience completing colossal research and projects regarding artificial intelligence, machine learning, deep learning, computer vision and data science. Core attributes include a curious mind, dedicated and strategic execution, creative problem-solving, and inspiring leadership. Believe that consistent hard work will always lead to success.
 
 ## 🧑🏻‍💻Portfolio 
