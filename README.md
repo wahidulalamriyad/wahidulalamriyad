@@ -1,5 +1,3 @@
-### Hi there, I'm Wahid 👋🏻
-
 # 🏆About me
 Machine Learning Engineer with 2+ years of experience completing colossal research and projects regarding artificial intelligence, machine learning, deep learning, computer vision and data science. Core attributes include a curious mind, dedicated and strategic execution, creative problem-solving, and inspiring leadership. Believe that consistent hard work will always lead to success.
 
@@ -11,7 +9,7 @@ Machine Learning Engineer with 2+ years of experience completing colossal resear
 
 # 💻Tech Stack
 
-### Programming languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 ### Machine Learning & Deep Learning
@@ -21,7 +19,7 @@ Machine Learning Engineer with 2+ years of experience completing colossal resear
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
-### Frameworks, platforms & libraries
+### Frameworks, Platforms & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 
 ### Databases
@@ -31,7 +29,7 @@ Machine Learning Engineer with 2+ years of experience completing colossal resear
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wahidulalamriyad&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ∞ Key Achievements:
 
