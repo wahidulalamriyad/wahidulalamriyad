@@ -4,8 +4,7 @@
 Machine Learning Engineer with 2+ years of experience completing colossal research and projects regarding artificial intelligence, machine learning, deep learning, computer vision and data science. Core attributes include a curious mind, dedicated and strategic execution, creative problem-solving, and inspiring leadership. Believe that consistent hard work will always lead to success.
 
 ## 🌐Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwahidulalamriyad%2F)
- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahidulalamriyad) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ffNAKmZnjT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alessandro__ml) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidulalamriyad/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahidulalamriyad) [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly&logoSize=auto)](https://www.credly.com/users/wahidulalamriyad/badges)
 
 You can also find me here [alessandrolamberti.com](https://www.alessandrolamberti.com)
 
