@@ -6,7 +6,7 @@ Machine Learning Engineer with 2+ years of experience completing colossal resear
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidulalamriyad/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahidulalamriyad) [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly&logoSize=auto)](https://www.credly.com/users/wahidulalamriyad/badges)
 
-You can also find me here [alessandrolamberti.com](https://www.alessandrolamberti.com)
+Portfolio: [![Static Badge](https://img.shields.io/badge/wahidulalamriyad.com-%23253551?style=flat)](http://wahidulalamriyad.com/)
 
 # 💻Tech Stack
 
