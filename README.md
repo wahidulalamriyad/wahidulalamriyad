@@ -8,7 +8,7 @@ Machine Learning Engineer with 2+ years of experience completing colossal resear
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidulalamriyad/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wahidulalamriyad) [![Credly](https://img.shields.io/badge/Credly-%23FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/wahidulalamriyad/badges)
 
 ### 🦾Skills
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000?style=flat&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-12100E?style=flat&logoColor=white)
 
 ### 🥷🏻Programming Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234169E1?style=flat&logo=postgresql&logoColor=white) 
