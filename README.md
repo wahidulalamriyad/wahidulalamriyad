@@ -1,5 +1,5 @@
 ### 🏆Bio
-Machine Learning Engineer with 2+ years of experience completing colossal research and projects regarding artificial intelligence, machine learning, deep learning, computer vision and data science. Core attributes include a curious mind, dedicated and strategic execution, creative problem-solving, and inspiring leadership. Believe that consistent hard work will always lead to success.
+Machine Learning Engineer with experience developing and deploying sophisticated AI models. Proven track record of delivering high-impact projects, such as achieving 89% accuracy in predicting coronary heart disease using advanced classification models and surpassing state-of-the-art performance in food image recognition with TensorFlow. Proficient in Python, Scikit-Learn, TensorFlow, and a range of essential ML libraries, with hands-on expertise in data preprocessing, feature engineering, and model evaluation. Adept at collaborative work and problem-solving.
 
 ### 🧑🏻‍💻Portfolio 
 [![Portfolio](https://img.shields.io/badge/wahidulalamriyad.com-%23253551?style=flat)](http://wahidulalamriyad.com/)
