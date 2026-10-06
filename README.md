@@ -9,9 +9,10 @@
 ### 🏆 About Me
 
 - 🎓 **Lecturer in Computer Science** at **American International University-Bangladesh (AIUB)**.
-- 🔬 **Education**:
-  - **MSc in Data Science** — University of Greenwich, UK (*Thesis: Predicting Coronary Heart Diseases using ML Models*).
-  - **BSc (Hons) in Intelligent Systems** — Staffordshire University, UK (*Thesis: Facial Recognition Surveillance for Threat Identification*).
+- 🔬 **MSc in Data Science** — University of Greenwich, UK:
+  - *Thesis: Predicting Coronary Heart Diseases using ML Models*.
+- 🔬 **BSc (Hons) in Intelligent Systems** — Staffordshire University, UK:
+  - *Thesis: Facial Recognition Surveillance for Threat Identification*.
 - 🎯 **Domain Focus**: End-to-end Machine Learning, Deep Learning (PyTorch & Hugging Face), Production MLOps on AWS, LLM Engineering (Advanced RAG, Autonomous Agents, Fine-Tuning), and Scalable CS/System Design.
 - 🚀 **Targeting**: Machine Learning Engineer / AI Engineer roles at top-tier sponsorship tech enterprises.
 
