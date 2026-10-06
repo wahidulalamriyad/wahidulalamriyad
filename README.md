@@ -76,7 +76,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-253551?style=flat)
 
-#### 🧩 CS Fundamentals & System Design (TakeUForward Core)
+#### 🧩 CS Fundamentals & System Design
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-253551?style=flat)
 ![Low-Level Design](https://img.shields.io/badge/Low--Level%20Design%20(LLD)-253551?style=flat)
 ![High-Level Design](https://img.shields.io/badge/High--Level%20System%20Design%20(HLD)-253551?style=flat)
