@@ -21,8 +21,6 @@
 ### 🌐 Connect & Portfolio
 
 <p align="left">
-  <!-- Live Profile Views Tracker -->
-  <img src="https://komarev.com/ghpvc/?username=wahidulalamriyad&label=Profile+Views&color=3b82f6&style=flat" alt="Profile Views" />
   <!-- Click-Tracked External Shields (UTM Tagged) -->
   <a href="http://wahidulalamriyad.com/?utm_source=github&utm_medium=badge&utm_campaign=portfolio"><img src="https://img.shields.io/badge/Portfolio-wahidulalamriyad.com-253551?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/wahidulalamriyad/?utm_source=github&utm_medium=badge&utm_campaign=profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
